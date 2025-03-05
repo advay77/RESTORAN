@@ -4,7 +4,10 @@ Welcome to RESTORAN, a modern and stylish restaurant website built with cutting-
 
 🚀 Tech Stack
 
-🔹 React ⚛️🔹 TypeScript 📜🔹 Vite ⚡🔹 Tailwind CSS 🎨
+🔹 React ⚛️
+🔹 TypeScript 📜
+🔹 Vite ⚡
+🔹 Tailwind CSS 🎨
 
 🎯 Get Started
 
@@ -33,7 +36,7 @@ npm run dev
 
 🌍 Live Demo
 
-Check out the deployed version here:👉 RESTORAN Live 🚀🔥
+Check out the deployed version here:👉 https://roaring-pegasus-093c10.netlify.app/ 🚀🔥
 
 💡 Built with love & code! ❤️👨‍💻
 
