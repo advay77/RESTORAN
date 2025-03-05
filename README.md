@@ -36,7 +36,7 @@ npm run dev
 
 🌍 Live Demo
 
-Check out the deployed version here:👉 https://roaring-pegasus-093c10.netlify.app/ 🚀🔥
+Check out the deployed version here:👉 [RESTORAN LIVE](https://roaring-pegasus-093c10.netlify.app/) 🚀🔥
 
 💡 Built with love & code! ❤️👨‍💻
 
