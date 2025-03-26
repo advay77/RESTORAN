@@ -1,17 +1,37 @@
-# RESTORAN
+# RESTORAN - A Tasty Experience! 😋
+
+Welcome to **RESTORAN**, a modern and stylish restaurant website built with cutting-edge technologies! 🚀✨
 
 ## Tech Stack
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+- 🔹 **React** ⚛️
+- 🔹 **TypeScript** 📜
+- 🔹 **Vite** ⚡
+- 🔹 **Tailwind CSS** 🎨
 
 ## Usage
-To run the project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/advay77/RESTORAN`
-2. Navigate to the project directory: `cd RESTORAN`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
+Follow these simple steps to run the project locally:
 
-## Deployed Link
-You can view the deployed application at: [Deployed Link](https://roaring-pegasus-093c10.netlify.app/)
+1️⃣ Clone the repository:
+   ```bash
+   git clone https://github.com/advay77/RESTORAN
+   ```
+
+2️⃣ Navigate to the project directory:
+   ```bash
+   cd RESTORAN
+   ```
+
+3️⃣ Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4️⃣ Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 🌍 Live Demo
+Check out the deployed version here: 👉 [RESTORAN LIVE](https://roaring-pegasus-093c10.netlify.app/) 🚀🔥
+
+💡 Built with love & code! ❤️👨‍💻

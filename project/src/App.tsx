@@ -225,17 +225,17 @@ function App() {
             <div className="text-center">
               <MapPin className="w-12 h-12 text-[#ffa41b] mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Our Location</h3>
-              <p className="text-gray-600">123 Dining Street, Foodville, FC 12345</p>
+              <p className="text-gray-600">28/22 Beli Road New Katra, Prayagraj</p>
             </div>
             <div className="text-center">
               <Phone className="w-12 h-12 text-[#ffa41b] mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Phone Number</h3>
-              <p className="text-gray-600">+1 234 567 8900</p>
+              <p className="text-gray-600">+91 6386771480</p>
             </div>
             <div className="text-center">
               <Mail className="w-12 h-12 text-[#ffa41b] mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Email Address</h3>
-              <p className="text-gray-600">info@restoran.com</p>
+              <p className="text-gray-600">advayanand87@gmail.com</p>
             </div>
           </div>
         </div>
