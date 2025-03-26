@@ -8,7 +8,7 @@ Welcome to **RESTORAN**, a modern and stylish restaurant website built with cutt
 - 🔹 **Vite** ⚡
 - 🔹 **Tailwind CSS** 🎨
 
-## PREvIEW
+## PREVIEW
 ![Screenshot 2025-03-20 115024](https://github.com/user-attachments/assets/7127f91c-d653-4704-bf2e-959ccb29b9c2)
 
 
